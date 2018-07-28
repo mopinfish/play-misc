@@ -8,4 +8,3 @@ target
 /RUNNING_PID
 
 app/assets/node_modules
-public/packs
